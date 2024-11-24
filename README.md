@@ -7,4 +7,3 @@ Considerando o vetor abaixo:
 
 Crie três códigos diferentes para ordenar esse vetor em ordem crescente.
 
-Modifique os códigos para ordenar o vetor em ordem decresente.
